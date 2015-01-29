@@ -2,10 +2,10 @@
   "name": "sit1",
   "description": "SIT1 environment",
   "default_attributes": {
-    "SortAs": "AML",
+    "SortAs": "sit1",
     "GlossTerm": "Standard Generalized Markup Language"
   },
   "override_attributes": {
-    "ID": "AML"
+    "ID": "sit1"
   }
 }
