@@ -1,5 +1,5 @@
 {
-  "name": " sit2",
+  "name": "sit2",
   "description": "This is SIT2 environment",
   "default_attributes": {
     "SortAs": "SIT2",
